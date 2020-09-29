@@ -1,3 +1,5 @@
+THIS REPO IS USED FOR STUDENTS TO PRACTICE PULL REQUESTS -Devin Macy
+
 # CS3560 - Example Project
 
 Example project that uses Doxygen, Makefile, Catch2, Travis CI.
